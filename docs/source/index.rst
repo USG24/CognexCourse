@@ -3,6 +3,8 @@ Welcome to the Cognex course
 
 This is an introductory course on the usage of the Cognex software.
 
+This is a dummy change.
+
 Contents
 --------
 
