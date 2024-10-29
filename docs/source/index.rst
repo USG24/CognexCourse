@@ -9,9 +9,11 @@ Contents
 --------
 
 .. toctree::
-   Getting started with Cognex.
-   Spreadsheet programming.
-   Cognex with SYS communication.
+   Getting started with Cognex
+   Spreadsheet programming
+   Hardware deployment Cognex
+   Cognex with SYS communication
+   
    
 
 

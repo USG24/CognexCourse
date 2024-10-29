@@ -1,4 +1,4 @@
-Hardware deployment Cognex.
+Hardware deployment Cognex
 =======================
 
 .. _hardwareDeploy:

@@ -1,4 +1,4 @@
-Cognex with SYS communication.
+Cognex with SYS communication
 =======================
 
 .. _cognexSys:
